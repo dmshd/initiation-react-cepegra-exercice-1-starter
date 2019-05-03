@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# initiation React Cepegra
+## Exercice 01 starter
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,4 +72,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # initiation-react
 
->>>>>>> 5edb26b4420fb46e3de064933add04429d3aa724
