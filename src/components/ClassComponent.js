@@ -45,9 +45,10 @@ export default class ClassComponent extends React.Component {
     }
 
     render = () => (
+
         <div>
             <p>Mon composant de classe</p>
-            <ul>
+            <ul className='App-link'>
                 {this.state.listing.map((contact)=> (
                     <li key={uid(contact)}>{contact.nom} ({contact.mail})</li>
                 ))}
